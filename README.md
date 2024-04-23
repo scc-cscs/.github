@@ -1,3 +1,6 @@
+# ATTENTION
+# This is a public repository
+
 # [SOS-SCC] Organization wide community health files directory
 ![Test Image 1](LogoSCC.png)
 
